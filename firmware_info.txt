@@ -1,0 +1,2 @@
+1.1.0
+https://github.com/pashah10/ESP32_OTA/raw/refs/heads/main/hello_world.bin
